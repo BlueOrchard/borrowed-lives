@@ -1,0 +1,36 @@
+{
+  "borrowedlives.configuration.title": "Borrowed Lives",
+  "borrowedlives.configuration.maxLives": "Maximum lives",
+  "borrowedlives.configuration.livesOnRevive": "Lives on revive",
+
+  "block.borrowedlives.altar": "Altar of Souls",
+  "item.borrowedlives.soul": "Soul",
+  "item.borrowedlives.soul.named": "Soul of %s",
+  "item.borrowedlives.soul.unrevealed": "Place it on an altar to learn the price of their return",
+  "item.borrowedlives.soul.requirement": "The altar demands %s x %s",
+  "item.borrowedlives.soul.progress": "Offered so far: %s of %s",
+  "item.borrowedlives.life_heart": "Heart of Life",
+  "item.borrowedlives.life_heart.tooltip": "Restores one lost life",
+  "item.borrowedlives.life_heart.full": "You have no lost lives to restore",
+  "item.borrowedlives.life_heart.used": "A life returns to you. You now have %s",
+  "item.borrowedlives.altar_compass": "Altar Compass",
+  "item.borrowedlives.altar_compass.tooltip": "Use to seek the nearest altar",
+  "item.borrowedlives.altar_compass.tooltip.locked": "Points to an altar. Use to seek again",
+  "item.borrowedlives.altar_compass.found": "The compass has found an altar",
+  "item.borrowedlives.altar_compass.none": "The compass finds no altar near here",
+
+  "borrowedlives.eliminated": "%s has lost their last life",
+  "borrowedlives.revived": "%s has been brought back to life",
+  "borrowedlives.revive_pending": "The soul of %s has been redeemed. They will return when they next arrive",
+  "borrowedlives.lives_left": "You have %s lives left",
+  "borrowedlives.lives_left.one": "You are on your last life",
+
+  "borrowedlives.altar.empty": "The altar waits for a soul",
+  "borrowedlives.altar.faded": "This soul has faded. The altar ignores it",
+  "borrowedlives.altar.status": "Soul of %s: the altar demands %s x %s (%s of %s offered)",
+
+  "commands.borrowedlives.inactive": "Borrowed Lives is inactive in Hardcore worlds",
+  "commands.borrowedlives.get": "%s has %s of %s lives",
+  "commands.borrowedlives.set": "%s now has %s of %s lives",
+  "commands.borrowedlives.revive.not_dead": "That player is not dead"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "borrowedlives:altar",
+  "biomes": "#borrowedlives:has_structure/altar",
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}

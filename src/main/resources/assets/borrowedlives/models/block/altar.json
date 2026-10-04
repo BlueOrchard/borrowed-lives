@@ -1,0 +1,45 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "minecraft:block/polished_deepslate",
+    "slab": "minecraft:block/polished_deepslate",
+    "pillar": "minecraft:block/chiseled_deepslate",
+    "top": "minecraft:block/reinforced_deepslate_top"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 4, 16],
+      "faces": {
+        "down": { "texture": "#slab", "cullface": "down" },
+        "up": { "texture": "#slab" },
+        "north": { "texture": "#slab", "cullface": "north" },
+        "south": { "texture": "#slab", "cullface": "south" },
+        "west": { "texture": "#slab", "cullface": "west" },
+        "east": { "texture": "#slab", "cullface": "east" }
+      }
+    },
+    {
+      "from": [3, 4, 3],
+      "to": [13, 9, 13],
+      "faces": {
+        "north": { "texture": "#pillar" },
+        "south": { "texture": "#pillar" },
+        "west": { "texture": "#pillar" },
+        "east": { "texture": "#pillar" }
+      }
+    },
+    {
+      "from": [1, 9, 1],
+      "to": [15, 12, 15],
+      "faces": {
+        "down": { "texture": "#slab" },
+        "up": { "texture": "#top" },
+        "north": { "texture": "#slab" },
+        "south": { "texture": "#slab" },
+        "west": { "texture": "#slab" },
+        "east": { "texture": "#slab" }
+      }
+    }
+  ]
+}
